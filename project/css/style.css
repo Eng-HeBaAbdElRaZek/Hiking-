@@ -69,16 +69,6 @@ header .main{
   position: relative;
   min-height: 97px;
 }
-.nav .toggle-menu{
-  color: #7d445b;
-  font-size:22px;
-
-}
-@media(min-width:768px){
-  .nav .toggle-menu{
-    display: none;
-  }
-}
 .logo img{
   position: absolute;
     top: 12px;
@@ -88,7 +78,6 @@ header .main{
   display: flex;
   justify-content: flex-end;
   background: #7d445b;
-  width: 50%;
   border: 2px solid none;
   border-radius: 20px;
   text-align: center;
